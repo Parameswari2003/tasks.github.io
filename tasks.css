@@ -100,7 +100,7 @@ body::before {
     color: black;
     font-size: 2rem;
     margin-left: 50px;
-    margin-top: -40px;
+   
 }
 
 .form-wrapper form {
@@ -257,15 +257,5 @@ p{
     .form-wrapper form {
         margin: 25px 0 40px;
     }
-    .topnav.responsive {position: relative;}
-    .topnav.responsive .icon {
-      position: absolute;
-      right: 0;
-      top: 0;
-    }
-    .topnav.responsive a {
-      float: none;
-      display: block;
-      text-align: left;
-    }
+
 }
